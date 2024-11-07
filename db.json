@@ -1,0 +1,67 @@
+{
+  "uploadVideos": [
+    {
+      "id": "e830",
+      "caption": "Leo Trailer",
+      "imgUrl": "https://tse1.mm.bing.net/th?id=OIP.5os5rWBb-JK5e_n6QCUsFgHaEc&pid=Api&P=0&h=180",
+      "youTubeLink": "https://www.youtube.com/embed/2W2QC_1TDDA"
+    },
+    {
+      "id": "7a48",
+      "caption": "JS Tutorial",
+      "imgUrl": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo-2048x1280.png",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": "527a",
+      "caption": "Vazha Trailer",
+      "imgUrl": "https://tse4.mm.bing.net/th?id=OIP.0xCnaMbpiL-WRdKzJBez3wHaKk&pid=Api&P=0&h=180",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4"
+    }
+  ],
+  "categories": [
+    {
+      "id": "12d4",
+      "categoryName": "Tutorial",
+      "allVideos": [
+        {
+          "id": "d2eb",
+          "caption": "CSS ",
+          "imgUrl": "https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png",
+          "youTubeLink": "https://www.youtube.com/embed/1PnVor36_40"
+        }
+      ]
+    },
+    {
+      "id": "d1ce",
+      "categoryName": "Trailers",
+      "allVideos": []
+    }
+  ],
+  "history": [
+    {
+      "id": "eb22",
+      "caption": "JS Tutorial",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "11/5/2024, 10:51:41 AM GMT+5:30"
+    },
+    {
+      "id": "b783",
+      "caption": "Vazha Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/EdsxhVLDLb4",
+      "timeStamp": "11/5/2024, 10:52:08 AM GMT+5:30"
+    },
+    {
+      "id": "8108",
+      "caption": "JS Tutorial",
+      "youTubeLink": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "11/6/2024, 9:22:11 AM GMT+5:30"
+    },
+    {
+      "caption": "CSS ",
+      "youTubeLink": "https://www.youtube.com/embed/1PnVor36_40",
+      "timeStamp": "11/7/2024, 9:18:54 AM GMT+5:30",
+      "id": "3nuh1v2"
+    }
+  ]
+}
